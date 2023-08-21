@@ -8,7 +8,7 @@
   <a href="https://www.linkedin.com/in/sureshkumar-s-635118274" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="55" height="25" alt="linkedin logo"  />
   </a>
-  <a href="https://instagram.com/cleverkingg_?igshid=NzMyMjgxZWIzNw==" target="_blank">
+  <a href="https://instagram.com/cleverking._?igshid=MzNlNGNkZWQ4Mg==" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="55" height="25" alt="instagram logo"  />
   </a>
   <a href="sureshkumarece87@gmail.com" target="_blank">
