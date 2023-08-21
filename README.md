@@ -14,7 +14,7 @@
   <a href="sureshkumarece87@gmail.com" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="55" height="25" alt="gmail logo"  />
   </a>
-  <a href="Sureshkuma_ece" target="_blank">
+  <a href="https://t.me/Sureshkuma_ece" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="55" height="25" alt="telegram logo"  />
   </a>
 </div>
